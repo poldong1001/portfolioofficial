@@ -1,0 +1,31 @@
+#mlb {
+  background-image: url(../assets/BackImageThree.jpg);
+  height: 100vh;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: orange; */
+}
+
+#mlbBoxContent {
+  background-color: rgba(32, 32, 35, 0.85);
+  height: 100vh;
+  display: flex;
+  gap: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: red; */
+}
+
+#techStack {
+  background-color: green;
+}
+
+#developerName {
+  background-color: aqua;
+}
+
+#statementBox {
+  background-color: blueviolet;
+}
