@@ -43,15 +43,15 @@
   /* align-items: center; */
 }
 
-/* #navLogo {
-  background-image: url("assets/mlbphoto.PNG");
+#navLogo {
+  /* background-image: url("assets/mlbphoto.PNG");
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
   height: 10vh;
   width: 5.5vw;
   min-width: 50px;
   min-height: 50px;
-} */
+}
 
 #navFlexRight {
   flex: 6;
