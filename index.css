@@ -43,7 +43,7 @@
   /* align-items: center; */
 }
 
-#navLogo {
+/* #navLogo {
   background-image: url("assets/mlbphoto.PNG");
   background-size: cover;
   background-repeat: no-repeat;
@@ -51,8 +51,7 @@
   width: 5.5vw;
   min-width: 50px;
   min-height: 50px;
-  /* background-color: aqua; */
-}
+} */
 
 #navFlexRight {
   flex: 6;
