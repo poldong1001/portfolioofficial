@@ -44,10 +44,14 @@
 }
 
 #navLogo {
+  background-image: url("assets/mlbphoto.PNG");
+  background-size: cover;
+  background-repeat: no-repeat;
   height: 10vh;
-  width: 4vw;
+  width: 5.5vw;
   min-width: 50px;
   min-height: 50px;
+  /* background-color: aqua; */
 }
 
 #navFlexRight {
