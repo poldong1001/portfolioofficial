@@ -21,8 +21,7 @@
 #navbar {
   /* background-color: red; */
   background-color: rgba(32, 32, 35, 0.85);
-  display: flex;
-  justify-content: center;
+
   position: fixed;
   width: 100%;
   /* background-color: green; */
