@@ -1,5 +1,11 @@
 #low {
-  background-color: aqua;
+  /* background-color: aqua; */
+  background-image: url(/assets/mlbphoto.PNG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  width: 80%;
+  height: 500px;
 }
 
 #mlb {
