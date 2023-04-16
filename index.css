@@ -38,6 +38,7 @@
   flex: 6;
   display: flex;
   justify-content: left;
+  justify-content: center;
   /* background-color: aqua; */
   /* align-items: center; */
 }
