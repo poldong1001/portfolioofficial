@@ -43,6 +43,11 @@
   /* align-items: center; */
 }
 
+img {
+  height: 100px;
+  width: 100px;
+}
+
 #navLogo {
   background-image: url(/assets/mlbphoto.PNG);
   background-size: cover;
