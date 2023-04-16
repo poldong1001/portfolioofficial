@@ -1,3 +1,7 @@
+#low {
+  background-color: aqua;
+}
+
 #mlb {
   background-image: url(../assets/BackImageThree.jpg);
   height: 100vh;
