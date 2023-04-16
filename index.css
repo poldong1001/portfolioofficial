@@ -9,13 +9,13 @@
 
 #portBody {
   background-color: blue;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center; */
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
   /* align-items: center; */
 }
 #container {
-  max-width: 1200px;
+  /* max-width: 1200px; */
 }
 
 #navbar {
@@ -43,8 +43,8 @@
 }
 
 .navLogo {
-  height: 500px;
-  width: 500px;
+  height: 100px;
+  width: 100px;
 }
 
 /* #logoName {
